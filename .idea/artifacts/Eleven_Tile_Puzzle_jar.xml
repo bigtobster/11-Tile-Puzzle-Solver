@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Eleven_Tile_Puzzle:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Eleven_Tile_Puzzle_jar</output-path>
+    <root id="archive" name="Eleven_Tile_Puzzle.jar">
+      <element id="module-output" name="Eleven_Tile_Puzzle" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/junit-4.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
